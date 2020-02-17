@@ -1,0 +1,10 @@
+{"message":"server is running on 5000","level":"info","timestamp":"2020-02-12T06:49:45.137Z"}
+{"level":"info","message":"mongo db connection is established","timestamp":"2020-02-12T06:49:47.151Z"}
+info: server is running on 5000 {"timestamp":"2020-02-12T06:52:27.190Z"}
+info: mongo db connection is established {"timestamp":"2020-02-12T06:52:29.558Z"}
+info: server is running on 5000 {"timestamp":"2020-02-12T07:10:22.202Z"}
+info: mongo db connection is established {"timestamp":"2020-02-12T07:10:25.267Z"}
+info: server is running on 5000 {"timestamp":"2020-02-12T07:11:32.587Z"}
+info: mongo db connection is established {"timestamp":"2020-02-12T07:11:34.325Z"}
+info: server is running on 5000 {"timestamp":"2020-02-12T07:13:24.807Z"}
+info: mongo db connection is established {"timestamp":"2020-02-12T07:13:27.208Z"}
